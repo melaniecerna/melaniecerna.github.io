@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -474,13 +472,12 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header2-1z .mbr-section-title {
+#msg-box5-20 H3 {
   font-size: 36px;
-  font-family: 'Open Sans', sans-serif;
   color: #ffffff;
 }
-#header2-1z .mbr-section-text {
-  text-align: left;
+#msg-box5-20 P {
+  color: #ffffff;
 }
 #features4-2 .card-subtitle {
   color: #bcbcbc;
@@ -497,6 +494,9 @@ h6,
 }
 #content2-3 BLOCKQUOTE {
   color: #ffffff;
+}
+#content2-3 P {
+  text-align: center;
 }
 #content7-4 P {
   color: #ffffff;
