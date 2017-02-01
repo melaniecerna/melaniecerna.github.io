@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -443,19 +444,19 @@ h6,
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-menu {
-  background: #030303;
+  background: #000000;
 }
 #ext_menu-0 .nav-dropdown-sm .link:focus,
 #ext_menu-0 .nav-dropdown-sm .link:hover,
 #ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #151414!important;
+  background: #000000!important;
 }
 #ext_menu-0 .navbar,
 #ext_menu-0 .nav-dropdown-sm,
 #ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #1d1c1c;
+  background: #000000;
 }
 #ext_menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -480,7 +481,9 @@ h6,
   color: #ffffff;
 }
 #features4-2 .card-subtitle {
-  color: #bcbcbc;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
 }
 #features4-2 .iconbox {
   background-color: #f29889;
@@ -1077,19 +1080,19 @@ h6,
 }
 #ext_menu-1s .link[aria-expanded="true"],
 #ext_menu-1s .dropdown-menu {
-  background: #030303;
+  background: #0e0e0e;
 }
 #ext_menu-1s .nav-dropdown-sm .link:focus,
 #ext_menu-1s .nav-dropdown-sm .link:hover,
 #ext_menu-1s .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1s .nav-dropdown-sm .dropdown-item:hover {
-  background: #151414!important;
+  background: #202020!important;
 }
 #ext_menu-1s .navbar,
 #ext_menu-1s .nav-dropdown-sm,
 #ext_menu-1s .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1s .nav-dropdown-sm .dropdown-menu {
-  background: #1d1c1c;
+  background: #282828;
 }
 #ext_menu-1s .bg-color.transparent .link {
   color: #ffffff;
@@ -1107,7 +1110,7 @@ h6,
   color: #c0a375!important;
 }
 #form1-21 .form-control-label {
-  color: #ffffff;
+  color: #232323;
 }
 #form1-21 .mbr-section-title {
   color: #ffffff;
