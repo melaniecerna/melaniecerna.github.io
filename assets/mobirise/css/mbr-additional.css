@@ -473,12 +473,12 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-20 H3 {
-  font-size: 36px;
-  color: #ffffff;
+#msg-box6-23 .mbr-section-title,
+#msg-box6-23 .lead p {
+  color: #fff;
 }
-#msg-box5-20 P {
-  color: #ffffff;
+#msg-box6-23 H3 {
+  font-size: 36px;
 }
 #features4-2 .card-subtitle {
   color: #ffffff;
@@ -495,17 +495,17 @@ h6,
 #features4-2 P {
   color: #ffffff;
 }
-#content2-3 BLOCKQUOTE {
-  color: #ffffff;
+#content2-22 SPAN {
+  text-align: right;
 }
-#content2-3 P {
-  text-align: center;
+#content2-22 UL {
+  text-align: left;
+}
+#content2-22 P {
+  text-align: left;
 }
 #content7-4 P {
-  color: #ffffff;
-}
-#content7-4 DIV {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
