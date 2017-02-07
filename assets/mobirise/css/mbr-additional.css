@@ -482,14 +482,17 @@ h6,
 #msg-box6-23 H3 {
   font-size: 36px;
 }
+#msg-box6-23 P {
+  color: #000000;
+}
 #features4-2 .card-subtitle {
   color: #ffffff;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
 }
 #features4-2 .iconbox {
-  background-color: #f29889;
-  border-color: #f29889;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 #features4-2 H4 {
   color: #ffffff;
@@ -515,6 +518,7 @@ h6,
   text-align: left;
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
 }
 #content7-4 P {
   color: #ffffff;
@@ -1125,8 +1129,11 @@ h6,
   color: #c0a375!important;
 }
 #form1-21 .form-control-label {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-21 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-21 SMALL {
   color: #ffffff;
 }
