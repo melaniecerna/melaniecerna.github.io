@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -503,9 +505,19 @@ h6,
 }
 #content2-22 P {
   text-align: left;
+  color: #ffffff;
+}
+#msg-box8-24 .mbr-section-title,
+#msg-box8-24 p {
+  color: #fff;
+}
+#msg-box8-24 .mbr-section-title {
+  text-align: left;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
 }
 #content7-4 P {
-  color: #000000;
+  color: #ffffff;
 }
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
