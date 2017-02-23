@@ -1189,3 +1189,25 @@ h6,
 #ext_menu-2b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
+  text-align: center;
+}
+#content8-2r .mbr-section-title,
+#content8-2r p {
+  text-align: right;
+  color: #fff;
+}
+#content8-2s .mbr-section-title,
+#content8-2s p {
+  text-align: right;
+  color: #fff;
+}
+#header3-2w .mbr-section-title,
+#header3-2w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2z .mbr-section-title,
+#header3-2z .mbr-section-subtitle {
+  text-align: center;
+}
