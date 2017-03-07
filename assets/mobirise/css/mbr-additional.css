@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
@@ -1021,6 +1022,7 @@ h6,
 }
 
 
+
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1082,16 +1084,9 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box6-23 .mbr-section-title,
-#msg-box6-23 .lead p {
-  color: #fff;
-}
-#msg-box6-23 H3 {
-  font-size: 36px;
-  color: #000000;
-}
-#msg-box6-23 P {
-  color: #000000;
+#header1-3a .mbr-section-lead {
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #features4-2 .card-subtitle {
   color: #ffffff;
