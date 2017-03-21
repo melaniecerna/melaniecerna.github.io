@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 119,
+    "uniqCompNum": 120,
     "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -125,92 +125,462 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\"><span class=\"etl-icon icon-pencil mbr-iconfont mbr-iconfont-btn\"></span>Adobe Illustration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"melaniecerna.github.io/documents/Discuss IT Topic 6 done.pdf\" target=\"_blank\"><span class=\"mbri-to-local-drive mbr-iconfont mbr-iconfont-btn\"></span>DiscussIT6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>123D</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Family Friend</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"submission.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>SUBMISSION</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/trump-with-lips-2000x1509-800x603.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trump-with-lips-2000x1509.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/space-with-aliens-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/space-with-aliens-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-poster-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-poster-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/robot-build-done-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/robot-build-done-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/back-to-the-future-poster-done-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/back-to-the-future-poster-done-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/before-and-after-2000x1250-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/before-and-after-2000x1250.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/peter-the-baby-done-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-the-baby-done-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-einstein-in-3d-2000x1473-800x589.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-einstein-in-3d-2000x1473.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rolo-candy-wrapper-reproduction-2000x1708-800x683.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rolo-candy-wrapper-reproduction-2000x1708.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-build-final-draft-2000x666-800x266.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-build-final-draft-2000x666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-batman-2000x1182-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-batman-2000x1182.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hulk-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x1600.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-avengers-logo-done-2000x982-800x392.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-avengers-logo-done-2000x982.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-iron-man-2000x2975-800x1190.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-iron-man-2000x2975.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-marvel-symbols-done-2000x1973-800x789.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-marvel-symbols-done-2000x1973.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-composite-7-2000x2103-800x841.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-composite-7-2000x2103.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125-1-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bald-eagle-2000x1125-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/duckling-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duckling-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ice-glass-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ice-glass-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-logo-4x4-finished-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-logo-4x4-finished-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna12-inch-record-layout-done-2000x3714-800x1485.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna12-inch-record-layout-done-2000x3714.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-cd-lp-inside-label-done-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-cd-lp-inside-label-done-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-record-album-build-done-better-than-ever-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-record-album-build-done-better-than-ever-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-side-2-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-side-2-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#90a878",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3b",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-masterpiece-reprodution-started-1-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-masterpiece-reprodution-started-1-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-masterpiece-reprodution-started-2-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-masterpiece-reprodution-started-2-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-3-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-3-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-4-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-4-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna-5-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna-5-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna6-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna6-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna7-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna7-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna8-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna8-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna10-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna10-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna11-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna11-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna12-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna12-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna13-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna13-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna14-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna14-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/melanie-cerna15-2000x2086-800x834.jpg",
+                "image": "@PROJECT_PATH@/assets/images/melanie-cerna15-2000x2086.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#90a878",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -3598,13 +3968,24 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\"><span class=\"etl-icon icon-pencil mbr-iconfont mbr-iconfont-btn\"></span>Adobe Illustration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"melaniecerna.github.io/documents/Discuss IT Topic 6 done.pdf\" target=\"_blank\"><span class=\"mbri-to-local-drive mbr-iconfont mbr-iconfont-btn\"></span>DiscussIT6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>123D</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Family Friend</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"submission.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>SUBMISSION</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\"><span class=\"etl-icon icon-pencil mbr-iconfont mbr-iconfont-btn\"></span>Adobe Illustration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"melaniecerna.github.io/documents/Discuss IT Topic 6 done.pdf\" target=\"_blank\"><span class=\"mbri-to-local-drive mbr-iconfont mbr-iconfont-btn\"></span>DiscussIT6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>123D</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Family Friend</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"submission.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>SUBMISSION</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-3a",
           "_params": {
             "parallax": true,
@@ -3618,23 +3999,16 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "Melanie Cerna, Biography",
-          "text": "Hello my name is Melanie Cerna. Since I was little I have liked computers. My dad is an engineer so he is always wanted to teach me about technology . Also my mom took me to a class when I was very young that taught me how to use Word, Powerpoint, and Microsoft Excel, I have loved using computers since then<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "text": "&nbsp;Hello my name is Melanie Cerna. Since I was little I have liked computers. My dad is an engineer so he is always wanted to teach me about technology . Also my mom took me to a class when I was very young that taught me how to use Word, Powerpoint, and Microsoft Excel, I have loved using computers since then.Before I ever learned about computers I used to love watching my dad work on his engineering projects. I would watch shows about the universe and how there is much more out there than we think there is or that we can see. Then I heard in fourth grade how Miami Arts Studio&nbsp;@ Zelda Glazer has a magnet program that teaches you more about technology and graphic design. I automatically knew I to join because it was a true passion of mine and I instantly knew i would enjoy it. I was right I have been to join because it was a true passion of mine and I instantly knew i would enjoy it. I was right I have been so much fun working in Technology Production.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -3848,20 +4222,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-25",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#aed1a6"
-          },
-          "text1": "Hello my name is Melanie Cerna. Since I was little I have liked computers. My dad is an engineer so he is always wanted to teach me about technology . Also my mom took me to a class when I was very young that taught me how to use Word, Powerpoint, and Microsof Excel, I have loved using computers since then.  before I ever learned about computers I used to love watching my dad work on his engineering projects. I would watch shows about the universe and how there is much more out there than we think there is or that we can see. Then I heard in fourth grade how Miami Arts Studio &nbsp;",
-          "text2": "<p>@ Zelda Glazer has a magnet program that teaches you more about technology and graphic design. I automatically knew I &nbsp;to join because it was a true passion of mine and I instantly knew i would enjoy it. I was right I have been to join because it was a true passion of mine and I instantly knew i would enjoy it. I was right I have been so much fun working in Technology Production.&nbsp;</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "contacts4",
           "_anchor": "contacts4-35",
           "_params": {
@@ -4005,7 +4365,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\"><span class=\"etl-icon icon-pencil mbr-iconfont mbr-iconfont-btn\"></span>Adobe Illustration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"melaniecerna.github.io/documents/Discuss IT Topic 6 done.pdf\" target=\"_blank\"><span class=\"mbri-to-local-drive mbr-iconfont mbr-iconfont-btn\"></span>DiscussIT6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>123D</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Family Friend</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"submission.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>SUBMISSION</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\"><span class=\"etl-icon icon-pencil mbr-iconfont mbr-iconfont-btn\"></span>Adobe Illustration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-opened-folder mbr-iconfont mbr-iconfont-btn\"></span>Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"melaniecerna.github.io/documents/Discuss IT Topic 6 done.pdf\" target=\"_blank\"><span class=\"mbri-to-local-drive mbr-iconfont mbr-iconfont-btn\"></span>DiscussIT6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>123D</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Family Friend</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"submission.html\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>SUBMISSION</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
