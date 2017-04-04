@@ -1201,17 +1201,20 @@ h6,
   text-align: right;
   color: #fff;
 }
-#content8-2s .mbr-section-title,
-#content8-2s p {
-  text-align: right;
-  color: #fff;
-}
 #header3-2w .mbr-section-title,
 #header3-2w .mbr-section-subtitle {
   text-align: center;
 }
 #header3-2z .mbr-section-title,
 #header3-2z .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-3e .mbr-section-title,
+#msg-box8-3e p {
+  color: #fff;
+}
+#header3-3f .mbr-section-title,
+#header3-3f .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-38 .mbr-section-title,
