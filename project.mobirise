@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 124,
-    "versionPublish": "3.10.5",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -4505,8 +4505,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery-stuff-for-website-2000x1250-4-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-stuff-for-website-2000x1250-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/composite-7-2000x2103-800x841.png",
+                "image": "@PROJECT_PATH@/assets/images/composite-7-2000x2103.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4515,20 +4515,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery-stuff-for-website-2000x1250-9-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-stuff-for-website-2000x1250-9.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x16002.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery-stuff-for-website-2000x1250-5-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery-stuff-for-website-2000x1250-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11253.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "0",
@@ -4578,10 +4578,10 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
             "bgColor": "#8da788",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -4595,7 +4595,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=gji8tOw4pWQ&amp;t=7s\" data-toolbar=\"-mbrBtnMove\">Watch my Story!!</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=0NyBd9xiT5I&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Watch my Story!!</a>"
         },
         {
           "_styles": {
