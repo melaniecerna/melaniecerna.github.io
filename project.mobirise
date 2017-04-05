@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 124,
+    "uniqCompNum": 125,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -4414,7 +4414,7 @@
           },
           "title": "Melanie N. Cerna",
           "text": "Click the button to see more.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">My Website</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Come on in!</a> "
         },
         {
           "_styles": {
@@ -4491,6 +4491,26 @@
           "meta": ""
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#8da788",
+            "showMeta": true
+          },
+          "title": "A Little Preview of My Work!",
+          "meta": ""
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -4516,7 +4536,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x16002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x16006.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4526,7 +4546,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11253.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11257.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -4595,7 +4615,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=0NyBd9xiT5I&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Watch my Story!!</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=mq1HylakJRM\" data-toolbar=\"-mbrBtnMove\">Watch my Story!!</a>"
         },
         {
           "_styles": {
