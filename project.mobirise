@@ -4536,7 +4536,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x16000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x16004.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4546,7 +4546,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11251.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11255.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
