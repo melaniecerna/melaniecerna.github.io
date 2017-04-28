@@ -4536,7 +4536,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x16006.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-logo-done-2000x16008.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4546,7 +4546,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11257.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11259.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -4840,10 +4840,14 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -4890,10 +4894,14 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1866.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
