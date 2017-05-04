@@ -616,7 +616,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-35",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -4245,7 +4245,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-35",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -4526,7 +4526,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11253.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digital-camera-lense-2000x11256.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4546,7 +4546,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ice-glass-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ice-glass-2000x11254.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ice-glass-2000x11257.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4556,7 +4556,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x11255.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brazilian-birds-2000x11258.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -4681,7 +4681,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-35",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -4934,7 +4934,7 @@
           "_name": "contacts4",
           "_anchor": "contacts4-3i",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
