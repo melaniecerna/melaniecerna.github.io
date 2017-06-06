@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Melanie Cerna Portfolio",
-    "currentPage": "premiere.html",
+    "currentPage": "intro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4019,7 +4019,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.4",
             "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
